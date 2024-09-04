@@ -1,3 +1,7 @@
+# Write optimization codes based on "Golden ratio search" algorithm.
+# Try the function f(x)=x3−3x2+7
+#  over interval [1, 3]
+
 import math
 # function
 def f(x):
